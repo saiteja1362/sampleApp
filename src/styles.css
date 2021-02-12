@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.menu a{
+    padding: 5px;
+}
+
+.menuActive {
+    color: black;
+}
+
+.error{
+    text-align: center;
+    color: red;
+    margin-top: 1%;
+}
+
+.success{
+    text-align: center;
+    color: green;
+    margin-top: 1%;
+}
+.menu a{
+    font-size: 15px;
+    padding: 20px;
+}
+.menu a:hover{
+    text-decoration: none ;
+    
+}
+.menuActive {
+    color: black;
+}
